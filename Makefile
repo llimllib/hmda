@@ -11,4 +11,4 @@ $(SHAPEFILE):
 
 .PHONY: install
 install:
-	pip install topojson simplification altair geopandas ipywidgets pyshp geojson fiona vincent
+	pip install topojson simplification altair geopandas ipywidgets pyshp geojson fiona vincent mapclassify

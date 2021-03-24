@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# HMDA API docs: https://cfpb.github.io/hmda-platform/#hmda-api-documentation
+
 # https://jtleider.github.io/censusdata/example1.html
 import os
 
